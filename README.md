@@ -1,8 +1,8 @@
 # ✨ Naked Beautiful Website
 
-A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, animated UI libraries, AI coding agent design skills, and vibe-coding context libraries on the internet.
+A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, animated UI libraries, AI coding agent design skills, and tactile vibe-coding toolkits on the internet.
 
-Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, 3D device staging, and elite AI design context engines.
+Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, 3D device staging, hardware UI, and elite AI design context engines.
 
 ---
 
@@ -67,17 +67,21 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
-### 🚀 Part 6: Vibe-Coding Context Libraries & AI Design Systems
+### 🚀 Part 6: Vibe-Coding Context Libraries & AI Design Systems (jordancastle.edit & ui.martin Picks)
 | # | Name | Category | Primary Focus & Capabilities | Reference Link |
 |---|---|---|---|---|
 | **30** | **HorizonX** | Vibe-Coding Asset Library | 1,000+ premium UI/UX assets, Three.js experiments, complete design systems, and pro-grade vibe-coding prompts to give AI models direct taste and design context. | [horizonx.so](https://horizonx.so) |
+| **31** | **Motion in Design** | Cursor-Reactive Physics UI | Physics-based, cursor-reactive web sections and hero animations. Copy ready-made prompts directly into AI coding agents. | [motionin.design](https://motionin.design) |
+| **32** | **Tactile UI** | Hardware-Style Digital UI | Tactile, skeuomorphic hardware-inspired UI components you can press, drag, and turn (dials, mechanical switches, faders) — copy directly as code. | [tactileui.de](https://tactileui.de) |
+| **33** | **Movo Video** | Browser Motion Graphics | Cloud-based motion graphics templates and video animation tools with zero installation required. | [movo.video](https://movo.video) |
+| **34** | **Overflow Design** | Hand-Drawn & Isometric Assets | 1,800+ hand-drawn icons, isometric illustrations, and interactive UI visual assets. | [overflow.design](https://overflow.design) |
 
 ---
 
 ## 🚀 Interactive Live Showcase
 
 This repository includes a standalone, self-hosted, lightweight showcase (`index.html`) featuring:
-- **Instant Category Filtering:** Filter by *All (30)*, *UI Toolkits*, *AI Design & Context*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Instant Category Filtering:** Filter by *All (34)*, *Vibe-Coding & Hardware*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
 - **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
