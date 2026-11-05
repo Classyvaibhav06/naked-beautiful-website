@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Naked Beautiful Website — Design Reference Directory</title>
-  <meta name="description" content="A curated directory of the most beautiful, minimal, award-winning, and craft-driven web design inspiration on the web.">
+  <title>Naked Beautiful Website — Design & Motion Reference Directory</title>
+  <meta name="description" content="A curated directory of the most beautiful, minimal, award-winning web design galleries, animated component toolkits, and motion inspiration.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -22,6 +22,7 @@
       --accent-glow: rgba(56, 189, 248, 0.15);
       --emerald: #10b981;
       --amber: #f59e0b;
+      --purple: #a855f7;
       --radius: 16px;
     }
 
@@ -41,7 +42,6 @@
       -webkit-font-smoothing: antialiased;
     }
 
-    /* Subtle background grid */
     .bg-grid {
       position: fixed;
       inset: 0;
@@ -62,7 +62,6 @@
       z-index: 10;
     }
 
-    /* Header */
     header {
       margin-bottom: 56px;
       text-align: center;
@@ -114,7 +113,6 @@
       font-weight: 500;
     }
 
-    /* Controls Bar */
     .controls {
       display: flex;
       flex-direction: column;
@@ -200,7 +198,6 @@
       box-shadow: 0 0 16px var(--accent-glow);
     }
 
-    /* Grid */
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
@@ -317,7 +314,6 @@
       color: var(--text-muted);
     }
 
-    /* Footer */
     footer {
       margin-top: 80px;
       text-align: center;
@@ -349,7 +345,7 @@
         <span>CURATED REFERENCE DIRECTORY</span>
       </div>
       <h1><span>Naked Beautiful Website</span></h1>
-      <p class="subtitle">The definitive index of craft-first design galleries, editorial showcases, brutalist layouts, and typography archives.</p>
+      <p class="subtitle">The definitive index of craft-first design galleries, animated component toolkits, shader backgrounds, and motion tools.</p>
     </header>
 
     <div class="controls">
@@ -362,10 +358,11 @@
       </div>
 
       <div class="filter-pills">
-        <button class="filter-btn active" data-cat="all">All (12)</button>
+        <button class="filter-btn active" data-cat="all">All (17)</button>
+        <button class="filter-btn" data-cat="ui-toolkit">UI Toolkits</button>
+        <button class="filter-btn" data-cat="motion">Motion</button>
         <button class="filter-btn" data-cat="minimal">Minimal</button>
         <button class="filter-btn" data-cat="dark">Dark Mode</button>
-        <button class="filter-btn" data-cat="motion">Motion</button>
         <button class="filter-btn" data-cat="type">Typography</button>
         <button class="filter-btn" data-cat="showcase">Showcase</button>
       </div>
@@ -382,6 +379,7 @@
 
   <script>
     const sites = [
+      // Batch 1: Award & Design Galleries
       {
         id: "01",
         name: "Minimal Gallery",
@@ -477,6 +475,48 @@
         category: "showcase",
         catLabel: "Hall of Fame",
         desc: "Long-running archive of award-winning digital experiences and developer gems curated by David Hellmann."
+      },
+
+      // Batch 2: Animated UI Toolkits & Motion Tools
+      {
+        id: "13",
+        name: "React Bits",
+        url: "https://reactbits.dev",
+        category: "ui-toolkit",
+        catLabel: "React / Shaders",
+        desc: "165+ animated, interactive & fully customizable React components, creative shader backgrounds, and text effects."
+      },
+      {
+        id: "14",
+        name: "Animos",
+        url: "https://animos.app",
+        category: "motion",
+        catLabel: "3D Motion Design",
+        desc: "Browser-based motion design tool to showcase UI designs, 3D device mockups, and presentations in animated MP4."
+      },
+      {
+        id: "15",
+        name: "Arc UI",
+        url: "https://uiarc.dev",
+        category: "ui-toolkit",
+        catLabel: "Shadcn Components",
+        desc: "140+ animated React components and 83 blocks with motion built in, designed for shadcn CLI and AI coding agents."
+      },
+      {
+        id: "16",
+        name: "Planes UI",
+        url: "https://useplanes.com",
+        category: "ui-toolkit",
+        catLabel: "Interactive UI",
+        desc: "Copy-paste animated React components built with spring physics, inspired by Apple and Linear interfaces."
+      },
+      {
+        id: "17",
+        name: "Swishy AI",
+        url: "https://www.swishy.ai",
+        category: "motion",
+        catLabel: "Prompt Motion",
+        desc: "AI motion designer that generates animated typography, UI element interactions, lower thirds, and motion graphics."
       }
     ];
 
