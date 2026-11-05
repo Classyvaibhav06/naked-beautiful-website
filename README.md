@@ -1,6 +1,6 @@
 # ✨ Naked Beautiful Website
 
-A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, and AI coding agent design skills on the internet.
+A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, animated UI libraries, and AI coding agent design skills on the internet.
 
 Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, 3D device staging, and elite AI design skills.
 
@@ -57,10 +57,20 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
+### 💻 Part 5: Animated UI Component Distributions & Creative Showcase Concepts (kevin.snippet Collection)
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **26** | **Animate UI** | Animated Primitives | Open-source drop-in motion primitives for Radix UI, Base UI, and React Aria built on Motion. Swap imports and components animate. | [animate-ui.com](https://animate-ui.com) |
+| **27** | **Uilora** | Dual-Runtime Components | 700+ interactive, production-ready animated UI components for Next.js & React Native with physics-based interactions and MCP integration. | [uilora.com](https://www.uilora.com) |
+| **28** | **Moon Mansion** | GSAP 3D Agency Concept | Award-winning interactive creative agency portfolio showcase with fluid 3D draggable curved carousel motion. | [webflow.com/templates/html/moon-mansion-website-template](https://webflow.com/templates/html/moon-mansion-website-template) |
+| **29** | **Raumora Studio** | Minimal Editorial Design | Architectural and interior studio web design featuring timeless Swiss editorial typography and responsive gallery transitions. | [raumora-studio.webflow.io](https://raumora-studio.webflow.io) |
+
+---
+
 ## 🚀 Interactive Live Showcase
 
 This repository includes a standalone, self-hosted, lightweight showcase (`index.html`) featuring:
-- **Instant Category Filtering:** Filter by *All (25)*, *AI Design Skills*, *3D & Shaders*, *UI Toolkits*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Instant Category Filtering:** Filter by *All (29)*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
 - **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
