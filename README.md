@@ -1,8 +1,8 @@
 # ✨ Naked Beautiful Website
 
-A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, and digital craftsmanship archives on the internet.
+A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, and AI coding agent design skills on the internet.
 
-Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, and 3D device staging.
+Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, 3D device staging, and elite AI design skills.
 
 ---
 
@@ -41,15 +41,26 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 | # | Name | Category | Primary Focus & Capabilities | Reference Link |
 |---|---|---|---|---|
 | **18** | **Shaders.com** | WebGPU Shader Library | Next-gen WebGPU component library & presets for interactive chromatic/liquid shader effects. | [shaders.com](https://shaders.com) |
-| **19** | **LS Graphics** | Premium Device Mockups | High-end photorealistic device mockups (Nothing Phone, iPhone, MacBook) in artistic environments. | [ls.graphics](https://www.ls.graphics) |
+| **19** | **LS Graphics** | Premium Device Mockups | High-end photorealistic device mockups (Nothing Phone, iPhone, MacBook) in architectural staging. | [ls.graphics](https://www.ls.graphics) |
 | **20** | **ContentCore** | 3D Motion & Video Staging | Browser-based real-time 3D logos, custom shapes, and 4K video mockup staging templates. | [contentcore.xyz](https://contentcore.xyz) |
+
+---
+
+### 🧠 Part 4: Top AI Coding Agent Design & UI Skills (Broch Builds 320 Index)
+| # | Name / Repo | GitHub Stars | What It Does & Why It's Ranked | Install Command / Link |
+|---|---|---|---|---|
+| **21** | **[UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** | 133,000★ | Design intelligence: styles, color palettes, and strict UX rules so your AI-coded UI stops looking generic. | `npx skills add nextlevelbuilder/ui-ux-pro-max-skill -a claude-code` |
+| **22** | **[Taste Skill](https://github.com/Leonxlnx/taste-skill)** | 92,000★ | Anti-AI-slop design skill. Gives Claude Code and Codex good taste; eliminates generic purple gradients. | `npx skills add Leonxlnx/taste-skill -a claude-code` |
+| **23** | **[Archify](https://github.com/tt-a1i/archify)** | 77,000★ | Agent skill for clean, verifiable system architecture, data-flow, workflow, and sequence diagrams. | `npx skills add tt-a1i/archify -a claude-code` |
+| **24** | **[Hallmark](https://github.com/Nutlope/hallmark)** | 29,000★ | Anti-AI-slop design rules & clean aesthetic guardrails for Claude Code, Cursor, and Codex. | `npx skills add Nutlope/hallmark -a claude-code` |
+| **25** | **[Web Design Guidelines](https://github.com/vercel-labs/web-interface-guidelines)** | 22,000★ | Vercel's official web interface rules and interaction standards for building production interfaces. | `npx skills add vercel/web-design-guidelines -a claude-code` |
 
 ---
 
 ## 🚀 Interactive Live Showcase
 
 This repository includes a standalone, self-hosted, lightweight showcase (`index.html`) featuring:
-- **Instant Category Filtering:** Filter by *All (20)*, *UI Toolkits*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Instant Category Filtering:** Filter by *All (25)*, *AI Design Skills*, *3D & Shaders*, *UI Toolkits*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
 - **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
