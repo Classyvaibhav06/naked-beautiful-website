@@ -85,13 +85,33 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
+### 🤖 Part 8: Essential Claude & AI Coding Agent Toolkits (ai.iyaz Curations)
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **36** | **REA** | Reverse Engineering | Reverse engineer anything with AI agents, from web app runtime behavior down to native binaries. | [github.com/morluto/rea](https://github.com/morluto/rea) |
+| **37** | **Humanizer** | Writing / Anti-AI-Slop | AI agent skill that systematically removes signs and tells of AI-generated phrasing from written output. | [github.com/blader/humanizer](https://github.com/blader/humanizer) |
+| **38** | **Onyx** | Knowledge Platform | Open-source enterprise AI chat and search engine over company docs, APIs, and connected workspaces. | [github.com/onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) |
+| **39** | **Impeccable** | Design Vocabulary & Audit | Design vocabulary skill for coding agents: steer with polish, critique UI/UX, and catch AI slop before shipping. | [github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
+| **40** | **Last 30 Days** | Research & Trend Intel | Agent skill that deep-researches topics across Reddit, X, YouTube, Hacker News, and Polymarket to synthesize grounded summaries. | [github.com/mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
+| **41** | **Scrapling** | Undetectable Web Scraping | High-performance Python web scraping framework with stealth browser automation and anti-bot bypass. | [github.com/D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) |
+| **42** | **Diagram Design** | Editorial Diagrams | Generates 45+ clean, publication-grade editorial diagram types as self-contained SVG and HTML with zero Mermaid slop. | [github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+
+---
+
+### 🎬 Part 9: Cinematic Motion Systems (morenicksaraev MotionSites)
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **43** | **MotionSites** | Cinematic UI & Motion | Free open-source Claude & Codex skill with 700+ animated, cinematic website designs across fashion, gaming, and luxury real estate. | [github.com/Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) |
+
+---
+
 ## 🚀 Interactive Live Showcase
 
 This repository is hosted live on GitHub Pages:  
 👉 **[https://classyvaibhav06.github.io/naked-beautiful-website/](https://classyvaibhav06.github.io/naked-beautiful-website/)**
 
 Features:
-- **Instant Category Filtering:** Filter by *All (35)*, *Developer Tools*, *Vibe-Coding & Hardware*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Instant Category Filtering:** Filter by *All (43)*, *Developer Tools*, *Vibe-Coding & Hardware*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
 - **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
