@@ -105,13 +105,24 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
+### ⚡ Part 10: Next-Level Web Animations & Interactive Component Kits (code.banger Picks)
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **44** | **Lightswind UI** | React Animations & Kits | AI-native CLI-first library of 160+ animated components, GSAP micro-interactions, WebGL blobs, and dynamic backgrounds with MCP server support. | [lightswind.com](https://lightswind.com) • [GitHub](https://github.com/codewithMUHILAN/Lightswind-UI-Library) |
+| **45** | **Cult UI** | Rolling & Spring Numbers | 150+ motion-heavy shadcn/ui components, digit-by-digit rolling number tickers, currency odometers, and spring physics. | [cult-ui.com](https://www.cult-ui.com) • [GitHub](https://github.com/nolly-studio/cult-ui) |
+| **46** | **GetLayers AI** | Cursor Effects & 3D | AI-native design library featuring custom cursor animations, 3D scenes, shader backgrounds, and prompt templates with MCP server integration. | [getlayers.ai](https://www.getlayers.ai) |
+| **47** | **Fancy Components** | Image Trail & Micro-UI | Whimsical, physics-based animated React components including cursor Image Trail, pixel trails, letter swap, and gooey SVG filters. | [fancycomponents.dev](https://www.fancycomponents.dev) • [GitHub](https://github.com/danielpetho/fancy) |
+| **48** | **Vengeance UI** | Liquid Metal & Shaders | Modern animated component library featuring WebGL liquid metal button shaders, candy glass buttons, and cursor wave grids. | [vengenceui.com](https://www.vengenceui.com) • [GitHub](https://github.com/Ashutoshx7/VengeanceUI) |
+
+---
+
 ## 🚀 Interactive Live Showcase
 
 This repository is hosted live on GitHub Pages:  
 👉 **[https://classyvaibhav06.github.io/naked-beautiful-website/](https://classyvaibhav06.github.io/naked-beautiful-website/)**
 
 Features:
-- **Instant Category Filtering:** Filter by *All (43)*, *Developer Tools*, *Vibe-Coding & Hardware*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Instant Category Filtering:** Filter by *All (48)*, *Developer Tools*, *Vibe-Coding & Hardware*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
 - **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
