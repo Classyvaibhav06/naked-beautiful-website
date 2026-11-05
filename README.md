@@ -1,8 +1,8 @@
 # ✨ Naked Beautiful Website
 
-A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, animated UI libraries, and AI coding agent design skills on the internet.
+A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, animated UI libraries, AI coding agent design skills, and vibe-coding context libraries on the internet.
 
-Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, 3D device staging, and elite AI design skills.
+Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, 3D device staging, and elite AI design context engines.
 
 ---
 
@@ -67,10 +67,17 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
+### 🚀 Part 6: Vibe-Coding Context Libraries & AI Design Systems
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **30** | **HorizonX** | Vibe-Coding Asset Library | 1,000+ premium UI/UX assets, Three.js experiments, complete design systems, and pro-grade vibe-coding prompts to give AI models direct taste and design context. | [horizonx.so](https://horizonx.so) |
+
+---
+
 ## 🚀 Interactive Live Showcase
 
 This repository includes a standalone, self-hosted, lightweight showcase (`index.html`) featuring:
-- **Instant Category Filtering:** Filter by *All (29)*, *UI Toolkits*, *AI Design Skills*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Instant Category Filtering:** Filter by *All (30)*, *UI Toolkits*, *AI Design & Context*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
 - **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
