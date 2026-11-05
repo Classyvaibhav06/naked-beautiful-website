@@ -1,15 +1,14 @@
 # ✨ Naked Beautiful Website
 
-A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries and digital craftsmanship archives on the internet.
+A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, and digital craftsmanship archives on the internet.
 
-Inspired by top design curations across minimal web design, brutalist layouts, interactive micro-animations, and typographic mastery.
+Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, and typography.
 
 ---
 
-## 💎 Curated Reference Galleries
+## 💎 Curated Reference Galleries (Part 1 & 2)
 
-Here are the 12 premier design archives and galleries referenced:
-
+### 🏛️ Design Inspiration & Award Galleries
 | # | Name | Category | Primary Focus & Aesthetic | Reference Link |
 |---|---|---|---|---|
 | **01** | **Minimal Gallery** | Minimalist / SaaS | Clean, distraction-free layouts, editorial spacing, and modern developer aesthetics. | [minimal.gallery](https://minimal.gallery) |
@@ -27,10 +26,21 @@ Here are the 12 premier design archives and galleries referenced:
 
 ---
 
+### ⚡ Interactive Motion, 3D & Animated UI Toolkits
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **13** | **React Bits** | Backgrounds & Shaders | 165+ open-source animated React components, shader backgrounds, and text effects. | [reactbits.dev](https://reactbits.dev) |
+| **14** | **Animos** | 3D Showcases | Browser-based motion design platform to showcase UI designs & 3D mockups in video/MP4. | [animos.app](https://animos.app) |
+| **15** | **Arc UI** | Motion Components | 140+ animated React components and blocks with built-in spring motion for shadcn CLI. | [uiarc.dev](https://uiarc.dev) |
+| **16** | **Planes UI** | Interactive Micro-UI | High-polish animated React components inspired by Linear and Apple interfaces. | [useplanes.com](https://useplanes.com) |
+| **17** | **Swishy AI** | Prompt-to-Animation | AI-powered motion designer that generates custom animations, lower thirds, and UI motion. | [swishy.ai](https://www.swishy.ai) |
+
+---
+
 ## 🎨 Interactive Live Showcase
 
 This repository includes a standalone, self-hosted, lightweight showcase (`index.html`) featuring:
-- **Instant Category Filtering:** Filter by *Minimal*, *Dark Mode*, *Motion/Animation*, *Typography*, or *Agencies*.
+- **Instant Category Filtering:** Filter by *All*, *Minimal*, *Dark Mode*, *Motion/Animation*, *Typography*, *UI Toolkits*, or *Showcase*.
 - **Live Search:** Search by name, tags, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
