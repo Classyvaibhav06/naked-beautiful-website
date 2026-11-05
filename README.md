@@ -1,14 +1,14 @@
 # ✨ Naked Beautiful Website
 
-A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, and digital craftsmanship archives on the internet.
+A curated directory and reference index of the most beautiful, minimal, award-winning, and craft-driven web design galleries, motion toolkits, 3D mockups, and digital craftsmanship archives on the internet.
 
-Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, and typography.
+Inspired by top curations across minimal web design, brutalist layouts, interactive micro-animations, animated components, shaders, and 3D device staging.
 
 ---
 
-## 💎 Curated Reference Galleries (Part 1 & 2)
+## 💎 Curated Reference Directories
 
-### 🏛️ Design Inspiration & Award Galleries
+### 🏛️ Part 1: Design Inspiration & Award Galleries
 | # | Name | Category | Primary Focus & Aesthetic | Reference Link |
 |---|---|---|---|---|
 | **01** | **Minimal Gallery** | Minimalist / SaaS | Clean, distraction-free layouts, editorial spacing, and modern developer aesthetics. | [minimal.gallery](https://minimal.gallery) |
@@ -16,7 +16,7 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 | **03** | **Siteinspire** | Interactive / Agency | High-end digital agency portfolios filterable by style, platform, and subject. | [siteinspire.com](https://www.siteinspire.com) |
 | **04** | **Fonts In Use** | Typographic Archive | Exhaustive archive of typography, specimen pairings, and real-world type usage. | [fontsinuse.com](https://fontsinuse.com) |
 | **05** | **Landing Love** | Animation & Motion | Smooth interactive storytelling, GSAP animations, and high-converting landing pages. | [landing.love](https://www.landing.love) |
-| **06** | **Lapa Ninja** | UI & Product Landing | 6,000+ categorized landing pages, free UI kits, and vector illustration styles. | [lapa.ninja](https://www.lapa.ninja) |
+| **06** | **Lapa Ninja** | UI & Product Landing | 6,000+ categorized landing pages, free UI kits, and vector illustration styles. | [lapa.ninja](https://lapa.ninja) |
 | **07** | **Dark Mode Design** | Dark Aesthetics | High-contrast, sleek obsidian/midnight interfaces and low-light product design. | [darkmodedesign.com](https://www.darkmodedesign.com) |
 | **08** | **Hover States** | Micro-interactions | Innovative UI interactions, kinetic hover states, creative shaders, and WebGL. | [hoverstat.es](https://www.hoverstat.es) |
 | **09** | **Land-book** | Product & Portfolio | Hand-picked web design inspiration for developers, creators, and founders. | [land-book.com](https://land-book.com) |
@@ -26,7 +26,7 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
-### ⚡ Interactive Motion, 3D & Animated UI Toolkits
+### ⚡ Part 2: Interactive Motion, 3D & Animated UI Toolkits
 | # | Name | Category | Primary Focus & Capabilities | Reference Link |
 |---|---|---|---|---|
 | **13** | **React Bits** | Backgrounds & Shaders | 165+ open-source animated React components, shader backgrounds, and text effects. | [reactbits.dev](https://reactbits.dev) |
@@ -37,11 +37,20 @@ Inspired by top curations across minimal web design, brutalist layouts, interact
 
 ---
 
-## 🎨 Interactive Live Showcase
+### 🎨 Part 3: WebGPU Shaders, 3D Mockups & Hardware Staging
+| # | Name | Category | Primary Focus & Capabilities | Reference Link |
+|---|---|---|---|---|
+| **18** | **Shaders.com** | WebGPU Shader Library | Next-gen WebGPU component library & presets for interactive chromatic/liquid shader effects. | [shaders.com](https://shaders.com) |
+| **19** | **LS Graphics** | Premium Device Mockups | High-end photorealistic device mockups (Nothing Phone, iPhone, MacBook) in artistic environments. | [ls.graphics](https://www.ls.graphics) |
+| **20** | **ContentCore** | 3D Motion & Video Staging | Browser-based real-time 3D logos, custom shapes, and 4K video mockup staging templates. | [contentcore.xyz](https://contentcore.xyz) |
+
+---
+
+## 🚀 Interactive Live Showcase
 
 This repository includes a standalone, self-hosted, lightweight showcase (`index.html`) featuring:
-- **Instant Category Filtering:** Filter by *All*, *Minimal*, *Dark Mode*, *Motion/Animation*, *Typography*, *UI Toolkits*, or *Showcase*.
-- **Live Search:** Search by name, tags, or description in real time.
+- **Instant Category Filtering:** Filter by *All (20)*, *UI Toolkits*, *3D & Shaders*, *Motion*, *Minimal*, *Dark Mode*, *Typography*, or *Showcase*.
+- **Live Search:** Instant fuzzy search by name, category, or description in real time.
 - **Linear/Obsidian Dark Theme:** Fast, clean typography and smooth micro-interactions.
 - **Zero Dependencies:** Pure semantic HTML5, vanilla CSS, and modern JavaScript.
 
